@@ -4,7 +4,9 @@ Robotics perception and simulation. MS Mechanical Engineering (Robotics and Cont
 
 I work on the sensing and physics side of manipulation: segmentation and pose estimation from RGB-D, physics-accurate scene modelling in Isaac Sim and OpenUSD, and getting both to run inside ROS 2 on real hardware.
 
-Currently doing deformable-object manipulation research at CMU's CERLAB.
+Currently at CMU's CERLAB, on autonomous manipulation of deformable linear objects: building a physics-accurate digital twin in Isaac Sim, and the perception and grasping that work against it. The project is industry-sponsored, so most of that code stays private.
+
+**Looking for full-time robotics software roles starting January 2027**, in perception, simulation, or manipulation.
 
 ## Projects
 
@@ -16,11 +18,15 @@ Currently doing deformable-object manipulation research at CMU's CERLAB.
 
 Each one ships tests, runs them in CI, and states in its README what it cannot do.
 
-Some of my research is sponsor-confidential and stays in private repositories. Happy to talk through the approach.
-
 ## Working with
 
-Python, C++, ROS 2, PyTorch, Isaac Sim, OpenUSD, Open3D, OpenCV, Detectron2, SolidWorks, ANSYS
+**Simulation and robotics:** Isaac Sim, OpenUSD, PhysX, ROS 2, Nav2, TF, RViz
+
+**Perception and learning:** PyTorch, Detectron2, Ultralytics YOLO, Open3D, OpenCV, point-cloud geometry, RGB-D
+
+**Languages and tooling:** Python, C++, Docker, Linux, Git, GitHub Actions, pytest
+
+**Mechanical:** SolidWorks, ANSYS, GD&T, DFM
 
 ## Elsewhere
 
