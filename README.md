@@ -34,4 +34,4 @@ Each one ships tests, runs them in CI, and states in its README what it cannot d
 
 Published in *Results in Engineering* (Elsevier) on a vision-guided EV charging manipulator: [DOI](https://doi.org/10.1016/j.rineng.2025.105438). Two Indian patents filed.
 
-hjain2@andrew.cmu.edu
+[hjain2@andrew.cmu.edu](mailto:hjain2@andrew.cmu.edu)
